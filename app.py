@@ -223,6 +223,4 @@ st.markdown(f"""
 - {t["principle_3"]}
 - {t["principle_4"]}
 - {t["principle_5"]}
-
-*{t["built_with"]}*
 """)
